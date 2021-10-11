@@ -1,3 +1,9 @@
 # Hacktober1
 Hacktober Fest
-hi
+if "1"
+    print response
+        "I am case 1"
+
+if "2"
+    print response
+        "I am case 2"
